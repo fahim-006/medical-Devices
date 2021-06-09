@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "60bee8f81bacdd1294504a29"
+  },
+  "role": "admin",
+  "name": "mashrur",
+  "email": "khan@gmail.com",
+  "password": "$2b$10$t9vOVeyH76.iV2.DzRtG5u2d0JJ8IecUORJHCoxnS/9.afpcQ5fZO",
+  "createdAt": {
+    "$date": "2021-06-08T03:50:16.509Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-08T03:50:16.509Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bf7fbf8a07fd4150ad1e52"
+  },
+  "role": "user",
+  "name": "Mashrur khan",
+  "email": "khanmashrur03@gmail.com",
+  "password": "$2b$10$4/0Mx4kaXIgX8VitL366m.8P67SydP.jtN04HG0ys1WswvbKewguC",
+  "createdAt": {
+    "$date": "2021-06-08T14:33:36.087Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-08T14:33:36.087Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bf849d0851b009f84f3ebf"
+  },
+  "role": "user",
+  "name": "Mashrur khan",
+  "email": "khanmashrur07@gmail.com",
+  "password": "$2b$10$Lo33Uh2kgNZ9Tnqvv7Kl4uPm1fYpi/iUxk/EotbJ4dba740z9ZG4W",
+  "createdAt": {
+    "$date": "2021-06-08T14:54:21.763Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-08T14:54:21.763Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c051e06222b227d0142b82"
+  },
+  "role": "user",
+  "name": "Mashrur khan",
+  "email": "offbeatdrones@gmail.com",
+  "password": "$2b$10$Q2nJWfWUeTcAnzLmGttkZOl9SlptHPA4FaMuhgs6wiSqnr4veoz2O",
+  "createdAt": {
+    "$date": "2021-06-09T05:30:08.397Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-09T05:30:08.397Z"
+  },
+  "__v": 0
+}]

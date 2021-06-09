@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "60bf59226de2653f7c85cc30"
+  },
+  "name": "medicine",
+  "createdAt": {
+    "$date": "2021-06-08T11:48:50.115Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-08T11:48:50.115Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bf597a6de2653f7c85cc31"
+  },
+  "name": "Equipment",
+  "createdAt": {
+    "$date": "2021-06-08T11:50:18.002Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-08T11:50:18.002Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bf7ec08a07fd4150ad1e4e"
+  },
+  "name": "class 1",
+  "createdAt": {
+    "$date": "2021-06-08T14:29:20.360Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-08T14:29:20.360Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bf7ec58a07fd4150ad1e4f"
+  },
+  "name": "class 2",
+  "createdAt": {
+    "$date": "2021-06-08T14:29:25.202Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-08T14:29:25.202Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bf7ec78a07fd4150ad1e50"
+  },
+  "name": "class 3",
+  "createdAt": {
+    "$date": "2021-06-08T14:29:27.362Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-08T14:29:27.362Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c095577305ef3290afaa9b"
+  },
+  "name": "class 4",
+  "createdAt": {
+    "$date": "2021-06-09T10:17:59.774Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-09T10:17:59.774Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c095c17305ef3290afaa9d"
+  },
+  "name": "Class 5",
+  "createdAt": {
+    "$date": "2021-06-09T10:19:45.440Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-09T10:19:45.440Z"
+  },
+  "__v": 0
+}]
